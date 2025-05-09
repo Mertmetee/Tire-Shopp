@@ -1,0 +1,16 @@
+C:\Repos\Lastikcim\Lastikcim\bin\Debug\Lastikcim.exe.config
+C:\Repos\Lastikcim\Lastikcim\bin\Debug\Lastikcim.exe
+C:\Repos\Lastikcim\Lastikcim\bin\Debug\Lastikcim.pdb
+C:\Repos\Lastikcim\Lastikcim\bin\Debug\Lastikcim.xml
+C:\Repos\Lastikcim\Lastikcim\obj\Debug\Lastikcim.vbproj.AssemblyReference.cache
+C:\Repos\Lastikcim\Lastikcim\obj\Debug\Lastikcim.Form1.resources
+C:\Repos\Lastikcim\Lastikcim\obj\Debug\Lastikcim.Resources.resources
+C:\Repos\Lastikcim\Lastikcim\obj\Debug\Lastikcim.vbproj.GenerateResource.cache
+C:\Repos\Lastikcim\Lastikcim\obj\Debug\Lastikcim.vbproj.CoreCompileInputs.cache
+C:\Repos\Lastikcim\Lastikcim\obj\Debug\Lastikcim.exe
+C:\Repos\Lastikcim\Lastikcim\obj\Debug\Lastikcim.xml
+C:\Repos\Lastikcim\Lastikcim\obj\Debug\Lastikcim.pdb
+C:\Repos\Lastikcim\Lastikcim\obj\Debug\Lastikcim.Musteri.resources
+C:\Repos\Lastikcim\Lastikcim\obj\Debug\Lastikcim.Personel.resources
+C:\Repos\Lastikcim\Lastikcim\obj\Debug\Lastikcim.Satis.resources
+C:\Repos\Lastikcim\Lastikcim\obj\Debug\Lastikcim.Stok.resources
